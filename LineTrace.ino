@@ -37,6 +37,7 @@ void setup()
   v1 = Defo1;
   v2 = Defo2;
   //GitHubの使い方わからん！！！！！！！！！！！！
+  //margeって何？？？
 }
 
 void loop() 
