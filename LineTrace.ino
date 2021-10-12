@@ -1,3 +1,4 @@
+
 #define V1 7
 #define F1 6
 #define B1 5
@@ -35,6 +36,7 @@ void setup()
   Serial.begin(9600);
   v1 = Defo1;
   v2 = Defo2;
+  //GitHubの使い方わからん！！！！！！！！！！！！
 }
 
 void loop() 
